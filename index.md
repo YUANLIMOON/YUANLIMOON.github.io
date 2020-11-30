@@ -33,7 +33,30 @@
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
+<table border="0"ゝ
+
+<tr>
+
+<td width="75%" >
+
+<h1>许轲</h1>
+
+<p><b>本科生</b></p>
+
+<p><b>浙江万里学院信息与智能科技学院</b></p>
+
+<p><b>邮箱：1477977237@qq . com</b></p>
+
+<p><b>地址: 宁波市鄞州区盛莫路路浙江万里学院，6楼</b></p>
+
+</td>
+
+<td width="25%">
+
+<img src=" /zhengjianzhao. jpg" width=" 100%" >       %
+
+</td>
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
