@@ -1,15 +1,24 @@
-## Welcome to GitHub Pages
+## 个人信息
+姓名：许轲
 
-You can use the [editor on GitHub](https://github.com/YUANLIMOON/YUANLIMOON.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+学历：本科
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+学校：浙江万里学院
 
-### Markdown
+邮箱：1477977237@qq.com
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 个人特点
 
-```markdown
-Syntax highlighted code block
+理性、精确，求知欲、思维力强
+
+喜欢动手，手艺不错，擅长使用电脑、机械、仪器或其它工具，视它们为得力的助手。
+
+彻头彻尾的实用主义者；对待事情非常冷静客观，心平气和。
+
+好奇心强，对事实敏感，能很好的利用手头的资源；不愿受规则约束，以独有的好奇心和富有创意的幽默观察和理解生活
+
+具备很好的迎接挑战和处理问题的能力，天性喜欢兴奋和行动，通常很喜欢户外活动和运动；对技术工作很有天赋。
+
 
 # Header 1
 ## Header 2
